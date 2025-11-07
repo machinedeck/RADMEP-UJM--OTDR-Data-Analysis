@@ -4,7 +4,7 @@
 </p>
 
 ## 1. Introduction
-This part of my class at University Jean-Monnet (Saint-Étienne, France) during my [Erasmus Mundus RADMEP](https://master-radmep.org) third semester last **October 2024**.
+This is part of my class at University Jean-Monnet (Saint-Étienne, France) during my [Erasmus Mundus RADMEP](https://master-radmep.org) third semester last **October 2024**.
 
 ## 2. Rayleigh Scattering and OTDR
 Rayleigh scattering refers to the scattering of light by a particle whose dimension is smaller than the wavelength of light [[1](https://en.wikipedia.org/wiki/Rayleigh_scattering)]. This scattering elastic, implying that the scattered light has the _**same wavelength and intensity**_ as the incident. For optical time-domain reflectometry (OTDR), a _pulsed laser_ is injected into an _optical fiber_. The interaction of this laser with the material backscatters some of the light, and this backscattered light is measured by a detector. The schematic is shown below:
