@@ -82,6 +82,11 @@ The result of these analyses is shown in the plot below:
   <b>Figure 3.</b> RIA vs. dose plot for the three telecom wavelengths.
 </p>
 
+The plots above show increasing RIA with dose for each telecom wavelength. Moreover, the RIA rate with respect to dose increases according to ascending order of the given telecom wavelengths.
+
+## 6. Applications
+One application of this measurement is the possibility of using this OTDR setup as a dosimeter if the RIA vs. Dose plot shows some linearity.
+
 ## 6. References
 
 **[1]**  [https://en.wikipedia.org/wiki/Rayleigh_scattering](https://en.wikipedia.org/wiki/Rayleigh_scattering).
