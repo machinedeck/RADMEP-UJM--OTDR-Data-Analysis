@@ -36,7 +36,7 @@ Below is an example curve of the measured intensity of the reflected light as a 
 ## 3. Goal
 The goal of this project was to plot the **RIA as a function of dose**.
 
-## Experiment
+## 4. Experiment
 The optical fiber was illuminated using three telecom wavelengths and the coverage windows of the OTDR curve for each are chosen as follows:
 
 <table align = "center">
@@ -69,7 +69,7 @@ The optical fiber was illuminated using three telecom wavelengths and the covera
 
 At each period of time, the OTDR data for each wavelength had been measured. The optical fibers were irradiated at **105.56 µGy/s**, allowing **conversion from time to dose**.
 
-## 4. Data Analysis and Result
+## 5. Data Analysis and Result
 The data analysis used the following scripts:
 - `ria.py` : Responsible for the data extraction and processing from raw values of the OTDR measurement
 - `radiation_to_photonic_analysis.ipynb` : Jupyter notebook containing the analysis to yield the **RIA vs. dose plots** for the three telecom wavelengths.
@@ -82,7 +82,7 @@ The result of these analyses is shown in the plot below:
   <b>Figure 3.</b> RIA vs. dose plot for the three telecom wavelengths.
 </p>
 
-## 5. References
+## 6. References
 
 **[1]**  [https://en.wikipedia.org/wiki/Rayleigh_scattering](https://en.wikipedia.org/wiki/Rayleigh_scattering).
 
